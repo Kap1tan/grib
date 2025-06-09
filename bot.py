@@ -15,7 +15,7 @@ from analysis_formatter import AnalysisFormatter
 logging.basicConfig(level=logging.INFO)
 
 # Bot token
-BOT_TOKEN = ""
+BOT_TOKEN = "7623015735:AAE25c2-xtbZGDA6UWOEesJq-NY3Pk_UKY8"
 
 # Initialize bot and dispatcher
 bot = Bot(token=BOT_TOKEN)
